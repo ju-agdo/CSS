@@ -1,9 +1,23 @@
 li {
-  color: orange;
+  color: white;
 }
 h1 {
-  color: gray;
+  color: white;
+  background-color: rgb(31, 46, 87);
+  border: 2px solid grey;
 }
 h4 {
-  color: gray;
+  color: white;
+}
+body {
+  background-image: url(https://www.papeldeparede.etc.br/fotos/wp-content/uploads/espaco--azul_6542_1600x1200.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.moon {
+  color: goldenrod;
+}
+#europa {
+  color: blueviolet;
+  font-size: 12px;
 }

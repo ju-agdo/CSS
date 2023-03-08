@@ -1,0 +1,21 @@
+Curso CSS
+
+Cascade Style Sheets (Folha de Estilo em Cascatas)
+-> Como funciona uma regra do CSS
+  O selector aponta para o elemento HTML a ser estilizado
+  O boloco de declaração (entre chaves) contém uma ou mais declarações
+  Cada declaração é composta por duas informações separadas por dois-pontos.
+    -Propriedade
+    -Valor
+      h1 {color:blue ; font-size:12px; }
+      O meu h1 é o selector as declarações são dados entre as ponto e virgula";"
+      e as declarações são compostas por uma propriedade (color)+ valor (blue).
+    Seletores
+      Funcionalidade para selecionar somente os dados que quero alterar.
+      Para fazer isso eu crio uma classe para os dados que quero alterar, por exemplo, class="moon" (exemplo no index.html).
+      Posso colocar a classe tanto no li quanto h1.
+      O nome da classe pode ser qualquer um, esse nome entre "" que está moon pode mudar.
+      Podemos fazer essa mesma funcionalidade com id (exemplo no index.html).
+      obs: As alterações de cor, fonte e tamanho são realizadas no CSS, no html só criamos a class e id, e em seguida
+      chamamos no CSS.
+  
