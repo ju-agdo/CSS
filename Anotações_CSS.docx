@@ -18,4 +18,11 @@ Cascade Style Sheets (Folha de Estilo em Cascatas)
       Podemos fazer essa mesma funcionalidade com id (exemplo no index.html).
       obs: As alterações de cor, fonte e tamanho são realizadas no CSS, no html só criamos a class e id, e em seguida
       chamamos no CSS.
-  
+    Inspetor do Chrome
+      Se formos no chrome em nosso projeto, podemos inspecionar o ódigo, clica no botão direito > inspecionar.
+    Seletores mais avançados
+       O seletor *{} seleciona todos os dados do html.
+       O seletor filho li > a {} esse seletor basicamento está falando que: todo a que for um filho de li vai receber esse estilo.
+       Leituras recomendadas:
+        https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS​
+        https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048
