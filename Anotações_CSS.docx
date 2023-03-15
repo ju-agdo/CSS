@@ -26,3 +26,9 @@ Cascade Style Sheets (Folha de Estilo em Cascatas)
        Leituras recomendadas:
         https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_CSS​
         https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+    Especificidade
+      A especificidade determina quais regras CSS serão aplicadas.
+    Texto e Fonte no CSS
+      fonts.google.com
+      Para trazer ao código uma fonte do google, só ir no site fonts.google.com e inserir o link href dentro da caixa <head></head>
+      
