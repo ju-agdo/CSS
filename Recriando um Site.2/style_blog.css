@@ -1,0 +1,16 @@
+body {
+  background-color: #fffcea;
+  text-align: justify;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#date {
+  color: #008080;
+  font-family: "roboto";
+}
+#post-content {
+  font-family: "Montserrat";
+}
+p {
+  font-family: "Open Sans";
+}

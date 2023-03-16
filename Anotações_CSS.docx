@@ -30,5 +30,15 @@ Cascade Style Sheets (Folha de Estilo em Cascatas)
       A especificidade determina quais regras CSS serão aplicadas.
     Texto e Fonte no CSS
       fonts.google.com
-      Para trazer ao código uma fonte do google, só ir no site fonts.google.com e inserir o link href dentro da caixa <head></head>
-      
+      Para baixar as fontes do google no projeto, só ir no site fonts.google.com e inserir o lik que vai gerar quando
+      clicar em selecionar no campo link href dentro da caixa <head></head>.
+      Exemplo: se no site fonts.google.com  adicionar a fonte Geostar e baixá-la no código, agorá é só ir no meu arquivo style.css
+      e adiocionar a fonte ao campo desejada.
+      Ex: H1 { font-family: 'Geostar'}  
+    Box model
+      Posiconamento de elementos usando CSS.
+      -> Entendendo as partes do box model
+      - CONTENT: O conteúdo da caixa, onde aparecem textos ou imagens
+      - PADDING: Espaçamento do redor de um conteúdo (seu preenchimento é transparente)
+      - BORDER:Uma borda que fica entre a margin e o PADDING
+      - MARGIN: Limpa uma área fora da border (a margem é transparente)
